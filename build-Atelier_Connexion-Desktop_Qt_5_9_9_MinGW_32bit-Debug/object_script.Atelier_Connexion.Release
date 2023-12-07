@@ -1,0 +1,12 @@
+INPUT(
+./release\arduino.o
+./release\commande.o
+./release\customcalendar.o
+./release\main.o
+./release\mainwindow.o
+./release\connection.o
+./release\operation.o
+./release\produit.o
+./release\qrc_ressources.o
+./release\moc_mainwindow.o
+);
